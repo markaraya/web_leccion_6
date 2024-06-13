@@ -9,3 +9,5 @@ ingredientes:
 - salsas
 - tocinetas
 - quesos
+- postres
+- pollo
