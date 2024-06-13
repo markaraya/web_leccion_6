@@ -5,7 +5,8 @@ receta:hamburguesa
 ingredientes:
 - pan
 - torta
-- salsa mayonesa
 - salsas
+- salsas bbq
+- salsas mayonesa
 - tocinetas
 - quesos
