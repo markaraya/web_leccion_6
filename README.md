@@ -11,3 +11,6 @@ ingredientes:
 - quesos
 - postres
 - pollo
+- tacos 
+- hot dogs
+- sodas
